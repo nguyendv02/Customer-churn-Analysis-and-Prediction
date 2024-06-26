@@ -10,9 +10,11 @@ Predicting customer churn is a pivotal task for any business. This project focus
 ## EDA
 
 Visual numeric features.
+
 <image src="https://github.com/nguyendv02/Customer-churn-Analysis-and-Prediction/assets/137906492/cd394911-7bd4-42d9-bdc0-c81a6eb9141b" width="600">
 
 We'll visualize the correlation matrix to identify highly correlated attributes.
+
 <image src="https://github.com/nguyendv02/Customer-churn-Analysis-and-Prediction/assets/137906492/4d081204-8c47-456f-b867-d035e8abb545" width="600">
 
 Columns 'Total day charge', 'Total eve charge', 'Total night charge', and 'Total intl charge' are removed as they are linearly related to their respective minute columns.
