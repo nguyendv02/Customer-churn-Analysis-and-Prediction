@@ -11,12 +11,16 @@ Predicting customer churn is a pivotal task for any business. This project focus
 
 Visual numeric features.
 
-<image src="https://github.com/nguyendv02/Customer-churn-Analysis-and-Prediction/assets/137906492/cd394911-7bd4-42d9-bdc0-c81a6eb9141b" width="600">
-
+<p align="center">
+    <image src="https://github.com/nguyendv02/Customer-churn-Analysis-and-Prediction/assets/137906492/cd394911-7bd4-42d9-bdc0-c81a6eb9141b" width="600">
+</p>
+        
 We'll visualize the correlation matrix to identify highly correlated attributes.
-
-<image src="https://github.com/nguyendv02/Customer-churn-Analysis-and-Prediction/assets/137906492/4d081204-8c47-456f-b867-d035e8abb545" width="600">
-
+        
+<p align="center">
+    <image src="https://github.com/nguyendv02/Customer-churn-Analysis-and-Prediction/assets/137906492/4d081204-8c47-456f-b867-d035e8abb545" width="600">
+</p>
+        
 Columns 'Total day charge', 'Total eve charge', 'Total night charge', and 'Total intl charge' are removed as they are linearly related to their respective minute columns.
 
 ## 
@@ -46,8 +50,11 @@ Best Model:
 - Accuracy (addditional): 93.75% (validation) - 93.1% (test).
 
 Here is confusion matrix for test set.
-<image src="https://github.com/nguyendv02/Customer-churn-Analysis-and-Prediction/assets/137906492/342485d2-54ae-42d2-9c49-4be688e66323" width="600">
 
+<p align="center">
+    <image src="https://github.com/nguyendv02/Customer-churn-Analysis-and-Prediction/assets/137906492/342485d2-54ae-42d2-9c49-4be688e66323" width="600">
+</p>
+        
 Additional Considerations for Future Work:
 Addressing the balance between minimizing false negatives (missed churn predictions) and managing false positives is essential for enhancing the predictive accuracy of the model.
 
