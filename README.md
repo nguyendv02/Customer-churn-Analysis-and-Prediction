@@ -61,3 +61,5 @@ Addressing the balance between minimizing false negatives (missed churn predicti
 
 ### Contact:
 Email: nguyendv02@gmail.com or 20520657@gm.uit.edu.vn
+
+Faculty of Information Science and Engineering, University of Information Technology, Vietnam National University, Ho Chi Minh City, Vietnam.
