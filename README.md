@@ -59,3 +59,5 @@ Additional Considerations for Future Work:
 Addressing the balance between minimizing false negatives (missed churn predictions) and managing false positives is essential for enhancing the predictive accuracy of the model.
 
 
+### Contact:
+Email: nguyendv02@gmail.com or 20520657@gm.uit.edu.vn
